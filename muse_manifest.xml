@@ -1,0 +1,517 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="stevendaiva.com" resolutions="1x" timestamp="1528308796751">
+  <folder name="css">
+    <file name="site_global.css" crc="3873089186"/>
+    <file name="master_got-fr.css" crc="471920745" ref="girloftomorrowfr"/>
+    <file name="master_rdm-fr.css" crc="3981770000" ref="razdemareefr"/>
+    <file name="master_ed-fr.css" crc="4070893493" ref="entredeuxfr"/>
+    <file name="master_mseries-fr.css" crc="3768732595" ref="myriamrochefortfr"/>
+    <file name="master_vmseries-fr.css" crc="292399701" ref="vannyly_mariannengfr"/>
+    <file name="master_got.css" crc="3978922246" ref="girloftomorrow"/>
+    <file name="master_rdm.css" crc="515923058" ref="razdemaree"/>
+    <file name="master_ed.css" crc="4208038739" ref="entredeux"/>
+    <file name="master_a-master-fr.css" crc="4050029285" ref="stevedaivafr"/>
+    <file name="master_mseries.css" crc="3989219848" ref="myriamrochefort"/>
+    <file name="master_a-master.css" crc="321046743" ref="index"/>
+    <file name="master_vmseries.css" crc="207414043" ref="vannyly_marianneng"/>
+    <file name="razdemaree.css" crc="3829670664" ref="razdemaree"/>
+    <file name="iefonts_razdemaree.css" crc="4015255431" ref="razdemaree"/>
+    <file name="myriamrochefort.css" crc="196400801" ref="myriamrochefort"/>
+    <file name="iefonts_myriamrochefort.css" crc="4038311244" ref="myriamrochefort"/>
+    <file name="stevedaivafr.css" crc="3918151670" ref="stevedaivafr"/>
+    <file name="iefonts_stevedaivafr.css" crc="4138721425" ref="stevedaivafr"/>
+    <file name="girloftomorrow.css" crc="456279942" ref="girloftomorrow"/>
+    <file name="girloftomorrowfr.css" crc="242138006" ref="girloftomorrowfr"/>
+    <file name="vannyly_mariannengfr.css" crc="3971206040" ref="vannyly_mariannengfr"/>
+    <file name="iefonts_vannyly_mariannengfr.css" crc="4146433719" ref="vannyly_mariannengfr"/>
+    <file name="vannyly_marianneng.css" crc="332763783" ref="vannyly_marianneng"/>
+    <file name="iefonts_vannyly_marianneng.css" crc="3822722524" ref="vannyly_marianneng"/>
+    <file name="entredeuxfr.css" crc="4237524974" ref="entredeuxfr"/>
+    <file name="iefonts_entredeuxfr.css" crc="5004619" ref="entredeuxfr"/>
+    <file name="myriamrochefortfr.css" crc="263805286" ref="myriamrochefortfr"/>
+    <file name="iefonts_myriamrochefortfr.css" crc="320163329" ref="myriamrochefortfr"/>
+    <file name="entredeux.css" crc="246516627" ref="entredeux"/>
+    <file name="iefonts_entredeux.css" crc="4155496788" ref="entredeux"/>
+    <file name="index.css" crc="4025876942" ref="index"/>
+    <file name="iefonts_index.css" crc="356783492" ref="index"/>
+    <file name="razdemareefr.css" crc="212675707" ref="razdemareefr"/>
+    <file name="iefonts_razdemareefr.css" crc="4220051815" ref="razdemareefr"/>
+  </folder>
+  <folder name="assets">
+    <file name="gunps.png" crc="377678451" seo="true" mt="1456432632000"/>
+    <file name="screenshot000.png" crc="417122199" seo="true" mt="1456507258000"/>
+    <file name="screenshot001.png" crc="4010981575" seo="true" mt="1456441898000"/>
+    <file name="screenshot002.png" crc="109144651" seo="true" mt="1456520257000"/>
+    <file name="screenshot003.png" crc="374370149" seo="true" mt="1456504563000"/>
+    <file name="logoa.gif" crc="116547651" seo="true" mt="1457924641000"/>
+    <file name="logoain.gif" crc="376025889" seo="true" mt="1457925444000"/>
+    <file name="rdmback3.mp4" crc="134615399" seo="true" mt="1457980744000"/>
+    <file name="logocard.png" crc="467501017" seo="true" mt="1453741496000"/>
+    <file name="logocard.psd" crc="3870571993" seo="true" mt="1449850558000"/>
+    <file name="rdm3.png" crc="239680973" seo="true" mt="1489102763000"/>
+    <file name="rdm1.png" crc="424168453" seo="true" mt="1489102455000"/>
+    <file name="rdm2.png" crc="233080317" seo="true" mt="1489102653000"/>
+    <file name="rdm4.png" crc="503864692" seo="true" mt="1489103000000"/>
+    <file name="rdm5.png" crc="3801318924" seo="true" mt="1489103062000"/>
+    <file name="rdm16.png" crc="533145240" seo="true" mt="1457215142000"/>
+    <file name="rdm17.png" crc="175443884" seo="true" mt="1457215184000"/>
+    <file name="rdm15.png" crc="3766190795" seo="true" mt="1457215102000"/>
+    <file name="rdm9.png" crc="4120484773" seo="true" mt="1489103099000"/>
+    <file name="rdm19.png" crc="440718824" seo="true" mt="1457215266000"/>
+    <file name="glassessunpromo.jpg" crc="4261959059" seo="true" mt="1521757621000"/>
+    <file name="shoestestpromo.jpg" crc="73894925" seo="true" mt="1521829106000"/>
+    <file name="glovestestpromoprot.jpg" crc="475526211" seo="true" mt="1521865653000"/>
+    <file name="glovestestpromo.jpg" crc="3867298949" seo="true" mt="1521854579000"/>
+    <file name="hd-motion-background-video-1080p---bokeh-animation.mp4" crc="157533337" seo="true" mt="1523663080000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>girloftomorrow:phone>razdemaree:phone>myriamrochefort:phone>vannyly_marianneng:index:girloftomorrow:myriamrochefort:vannyly_marianneng:razdemaree:entredeux:stevedaivafr:razdemareefr:entredeuxfr:girloftomorrowfr:myriamrochefortfr:vannyly_mariannengfr"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>girloftomorrow:phone>razdemaree:phone>myriamrochefort:phone>vannyly_marianneng:index:girloftomorrow:myriamrochefort:vannyly_marianneng:razdemaree:entredeux:stevedaivafr:razdemareefr:entredeuxfr:girloftomorrowfr:myriamrochefortfr:vannyly_mariannengfr"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>girloftomorrow:phone>razdemaree:phone>myriamrochefort:phone>vannyly_marianneng:index:girloftomorrow:myriamrochefort:vannyly_marianneng:razdemaree:entredeux:stevedaivafr:razdemareefr:entredeuxfr:girloftomorrowfr:myriamrochefortfr:vannyly_mariannengfr"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>girloftomorrow:phone>razdemaree:phone>myriamrochefort:phone>vannyly_marianneng:index:girloftomorrow:myriamrochefort:vannyly_marianneng:razdemaree:entredeux:stevedaivafr:razdemareefr:entredeuxfr:girloftomorrowfr:myriamrochefortfr:vannyly_mariannengfr"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index:girloftomorrow:myriamrochefort:vannyly_marianneng:razdemaree:entredeux:stevedaivafr:razdemareefr:entredeuxfr:girloftomorrowfr:myriamrochefortfr:vannyly_mariannengfr"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>girloftomorrow:phone>razdemaree:phone>myriamrochefort:phone>vannyly_marianneng:index:girloftomorrow:myriamrochefort:vannyly_marianneng:razdemaree:entredeux:stevedaivafr:razdemareefr:entredeuxfr:girloftomorrowfr:myriamrochefortfr:vannyly_mariannengfr"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:index:girloftomorrow:razdemaree:stevedaivafr:razdemareefr:girloftomorrowfr"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="phone>index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="phone>index:index:myriamrochefort:vannyly_marianneng:razdemaree:entredeux:stevedaivafr:razdemareefr:entredeuxfr:myriamrochefortfr:vannyly_mariannengfr"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>girloftomorrow:phone>razdemaree:phone>myriamrochefort:phone>vannyly_marianneng:index:girloftomorrow:myriamrochefort:vannyly_marianneng:razdemaree:entredeux:stevedaivafr:razdemareefr:entredeuxfr:girloftomorrowfr:myriamrochefortfr:vannyly_mariannengfr"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:girloftomorrow:razdemaree:stevedaivafr:razdemareefr:girloftomorrowfr"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:girloftomorrow:razdemaree:stevedaivafr:razdemareefr:girloftomorrowfr"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:girloftomorrow:razdemaree:stevedaivafr:razdemareefr:girloftomorrowfr"/>
+  </folder>
+  <folder name="images">
+    <file name="stevedaiva-favicon.ico" crc="428719106" ref="phone>index"/>
+    <file name="s_00000.jpg" crc="4121212215" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hamburger-menu.jpg" crc="4098072227" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:index:myriamrochefort:vannyly_marianneng:razdemaree:stevedaivafr:razdemareefr:myriamrochefortfr:vannyly_mariannengfr"/>
+    <file name="meintro.jpg" crc="4217499943" ref="phone>index:index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="td.png" crc="207649214" ref="phone>index:index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="rdm-favicon.ico" crc="428719106" ref="phone>razdemaree"/>
+    <file name="logocard.jpg" crc="3880969726" ref="index:girloftomorrow:myriamrochefort:vannyly_marianneng:razdemaree:entredeux:stevedaivafr:razdemareefr:entredeuxfr:girloftomorrowfr:myriamrochefortfr:vannyly_mariannengfr"/>
+    <file name="jourintercommenu.jpg" crc="4122065062" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="tdcaisse.jpg" crc="3808514961" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u492.png" crc="4279339411" ref="index"/>
+    <file name="u492-r.png" crc="4279339411" ref="index"/>
+    <file name="u492-a.png" crc="4279339411" ref="index"/>
+    <file name="td20.jpg" crc="4072563378" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u481.png" crc="4279339411" ref="index"/>
+    <file name="u481-r.png" crc="4279339411" ref="index"/>
+    <file name="u481-a.png" crc="4279339411" ref="index"/>
+    <file name="jourintercomintro.jpg" crc="3834587743" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="u714.png" crc="4279339411" ref="index"/>
+    <file name="u714-r.png" crc="114733625" ref="index"/>
+    <file name="u714-a.png" crc="4279339411" ref="index"/>
+    <file name="jourintercommenu2.jpg" crc="4122065062" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u699.png" crc="4279339411" ref="index"/>
+    <file name="u699-r.png" crc="4279339411" ref="index"/>
+    <file name="u699-a.png" crc="4279339411" ref="index"/>
+    <file name="screenshot (94).jpg" crc="266099634" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="instagram.jpg" crc="375827072" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="instagramfilter2.jpg" crc="9351608" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="instatumb.png" crc="3977825708" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="redum-crop-u362.jpg" crc="4001454642" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-01-14 014835 1-crop-u282.jpg" crc="198429467" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="street-crop-u382.jpg" crc="3776924254" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a6000-2-crop-u322.png" crc="4232724794" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tea-crop-u402.jpg" crc="263746523" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bag-crop-u342.jpg" crc="514763489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-10-23 015948 1-crop-u107.jpg" crc="506510857" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-11-03 102316 1-crop-u262.jpg" crc="3776567590" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-01-19 123754 1-crop-u302.jpg" crc="4247716007" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="redum-crop-u356.jpg" crc="4222169343" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-01-14 014835 1-crop-u276.jpg" crc="4101877558" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="street-crop-u376.jpg" crc="3994297731" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="a6000-2-crop-u316.png" crc="1384629" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tea-crop-u396.jpg" crc="4088147698" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bag-crop-u336.jpg" crc="3960672874" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-10-23 015948 1-crop-u101.jpg" crc="215260822" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2015-11-03 102316 1-crop-u256.jpg" crc="241524688" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2016-01-19 123754 1-crop-u296.jpg" crc="523806584" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index:razdemaree:stevedaivafr:razdemareefr"/>
+    <file name="randomcube.jpg" crc="497526842" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="got.jpg" crc="23220983" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="girl-u1516-fr.png" crc="117285381" ref="index:stevedaivafr"/>
+    <file name="girl.jpg" crc="115706225" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1447711599.png" crc="71723880" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="rdm_background.jpg" crc="3916978408" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="banniere-entre2-3_1_orig-u7575-fr.png" crc="3766773074" ref="index:stevedaivafr"/>
+    <file name="banniere-entre2-3_1_orig.jpg" crc="312997777" ref="index:entredeux:entredeuxfr">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="stevenmod.jpg" crc="3919400838" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="linkedin-logo.png" crc="3865028822" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="fb.png" crc="95443614" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="insta.png" crc="3834773950" ref="index:stevedaivafr">
+      <caption webpage="index" alt=""/>
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="favicon.ico" crc="3976345957" ref="girloftomorrow"/>
+    <file name="tumb.png" crc="4225378552" ref="girloftomorrow:girloftomorrowfr">
+      <caption webpage="girloftomorrow" alt=""/>
+      <caption webpage="girloftomorrowfr" alt=""/>
+    </file>
+    <file name="1.jpg" crc="331028654" ref="girloftomorrow:myriamrochefort:girloftomorrowfr:myriamrochefortfr">
+      <caption webpage="myriamrochefortfr" alt=""/>
+      <caption webpage="girloftomorrow" alt=""/>
+      <caption webpage="myriamrochefort" alt=""/>
+      <caption webpage="girloftomorrowfr" alt=""/>
+    </file>
+    <file name="mseries-m serie.png" crc="3759551678" ref="girloftomorrow:girloftomorrowfr">
+      <caption webpage="girloftomorrow" alt=""/>
+      <caption webpage="girloftomorrowfr" alt=""/>
+    </file>
+    <file name="introcover.jpg" crc="143096081" ref="girloftomorrow:girloftomorrowfr">
+      <caption webpage="girloftomorrow" alt=""/>
+      <caption webpage="girloftomorrowfr" alt=""/>
+    </file>
+    <file name="vmseries.png" crc="159352043" ref="girloftomorrow:girloftomorrowfr">
+      <caption webpage="girloftomorrow" alt=""/>
+      <caption webpage="girloftomorrowfr" alt=""/>
+    </file>
+    <file name="cseries.png" crc="3901933888" ref="girloftomorrow:girloftomorrowfr">
+      <caption webpage="girloftomorrow" alt=""/>
+      <caption webpage="girloftomorrowfr" alt=""/>
+    </file>
+    <file name="cover.jpg" crc="186694222" ref="myriamrochefort:myriamrochefortfr">
+      <caption webpage="myriamrochefortfr" alt=""/>
+      <caption webpage="myriamrochefort" alt=""/>
+    </file>
+    <file name="2.jpg" crc="154706640" ref="myriamrochefort:myriamrochefortfr">
+      <caption webpage="myriamrochefortfr" alt=""/>
+      <caption webpage="myriamrochefortfr" alt=""/>
+      <caption webpage="myriamrochefort" alt=""/>
+      <caption webpage="myriamrochefort" alt=""/>
+    </file>
+    <file name="4.jpg" crc="4019601417" ref="myriamrochefort:myriamrochefortfr">
+      <caption webpage="myriamrochefortfr" alt=""/>
+      <caption webpage="myriamrochefortfr" alt=""/>
+      <caption webpage="myriamrochefort" alt=""/>
+      <caption webpage="myriamrochefort" alt=""/>
+    </file>
+    <file name="5.jpg" crc="4130311311" ref="myriamrochefort:myriamrochefortfr">
+      <caption webpage="myriamrochefortfr" alt=""/>
+      <caption webpage="myriamrochefort" alt=""/>
+    </file>
+    <file name="6.jpg" crc="421239632" ref="myriamrochefort:myriamrochefortfr">
+      <caption webpage="myriamrochefortfr" alt=""/>
+      <caption webpage="myriamrochefort" alt=""/>
+    </file>
+    <file name="7.jpg" crc="3811627286" ref="myriamrochefort:myriamrochefortfr">
+      <caption webpage="myriamrochefortfr" alt=""/>
+      <caption webpage="myriamrochefort" alt=""/>
+    </file>
+    <file name="9.jpg" crc="349323956" ref="myriamrochefort:myriamrochefortfr">
+      <caption webpage="myriamrochefortfr" alt=""/>
+      <caption webpage="myriamrochefort" alt=""/>
+    </file>
+    <file name="8.jpg" crc="4080110307" ref="myriamrochefort:myriamrochefortfr">
+      <caption webpage="myriamrochefortfr" alt=""/>
+      <caption webpage="myriamrochefort" alt=""/>
+    </file>
+    <file name="10.jpg" crc="3982932800" ref="myriamrochefort:myriamrochefortfr">
+      <caption webpage="myriamrochefortfr" alt=""/>
+      <caption webpage="myriamrochefort" alt=""/>
+    </file>
+    <file name="got2.jpg" crc="310521230" ref="myriamrochefort:vannyly_marianneng:myriamrochefortfr:vannyly_mariannengfr">
+      <caption webpage="myriamrochefortfr" alt=""/>
+      <caption webpage="vannyly_mariannengfr" alt=""/>
+      <caption webpage="myriamrochefort" alt=""/>
+      <caption webpage="vannyly_marianneng" alt=""/>
+    </file>
+    <file name="cover2.jpg" crc="257295219" ref="vannyly_marianneng:vannyly_mariannengfr">
+      <caption webpage="vannyly_mariannengfr" alt=""/>
+      <caption webpage="vannyly_marianneng" alt=""/>
+    </file>
+    <file name="vm-3.jpg" crc="325612286" ref="vannyly_marianneng:vannyly_mariannengfr">
+      <caption webpage="vannyly_mariannengfr" alt=""/>
+      <caption webpage="vannyly_marianneng" alt=""/>
+    </file>
+    <file name="vm-5.jpg" crc="4175630887" ref="vannyly_marianneng:vannyly_mariannengfr">
+      <caption webpage="vannyly_mariannengfr" alt=""/>
+      <caption webpage="vannyly_marianneng" alt=""/>
+    </file>
+    <file name="vm-4.jpg" crc="534259024" ref="vannyly_marianneng:vannyly_mariannengfr">
+      <caption webpage="vannyly_mariannengfr" alt=""/>
+      <caption webpage="vannyly_marianneng" alt=""/>
+    </file>
+    <file name="vm-7.jpg" crc="341303251" ref="vannyly_marianneng:vannyly_mariannengfr">
+      <caption webpage="vannyly_mariannengfr" alt=""/>
+      <caption webpage="vannyly_marianneng" alt=""/>
+    </file>
+    <file name="vm-8.jpg" crc="524375377" ref="vannyly_marianneng:vannyly_mariannengfr">
+      <caption webpage="vannyly_mariannengfr" alt=""/>
+      <caption webpage="vannyly_marianneng" alt=""/>
+    </file>
+    <file name="vm-9.jpg" crc="260741191" ref="vannyly_marianneng:vannyly_mariannengfr">
+      <caption webpage="vannyly_mariannengfr" alt=""/>
+      <caption webpage="vannyly_marianneng" alt=""/>
+    </file>
+    <file name="vm-10.jpg" crc="271954263" ref="vannyly_marianneng:vannyly_mariannengfr">
+      <caption webpage="vannyly_mariannengfr" alt=""/>
+      <caption webpage="vannyly_marianneng" alt=""/>
+    </file>
+    <file name="vm-12.jpg" crc="166610416" ref="vannyly_marianneng:vannyly_mariannengfr">
+      <caption webpage="vannyly_mariannengfr" alt=""/>
+      <caption webpage="vannyly_marianneng" alt=""/>
+    </file>
+    <file name="vm-13.jpg" crc="4000175981" ref="vannyly_marianneng:vannyly_mariannengfr">
+      <caption webpage="vannyly_mariannengfr" alt=""/>
+      <caption webpage="vannyly_marianneng" alt=""/>
+    </file>
+    <file name="rdmlogo.png" crc="328887954" ref="razdemaree:razdemareefr">
+      <caption webpage="razdemaree" alt=""/>
+      <caption webpage="razdemareefr" alt=""/>
+    </file>
+    <file name="logowide.png" crc="4261428820" ref="razdemaree:razdemareefr">
+      <caption webpage="razdemaree" alt=""/>
+      <caption webpage="razdemareefr" alt=""/>
+    </file>
+    <file name="rdm-background.jpg" crc="175897105" ref="razdemaree:razdemareefr">
+      <caption webpage="razdemaree" alt=""/>
+      <caption webpage="razdemareefr" alt=""/>
+    </file>
+    <file name="rdm-1313x209.jpg" crc="4115339139" seo="true" ref="razdemaree">
+      <caption webpage="razdemaree" alt=""/>
+    </file>
+    <file name="rdm-2313x209.jpg" crc="4200842576" seo="true" ref="razdemaree">
+      <caption webpage="razdemaree" alt=""/>
+    </file>
+    <file name="rdm-3313x209.jpg" crc="196106879" seo="true" ref="razdemaree">
+      <caption webpage="razdemaree" alt=""/>
+    </file>
+    <file name="rdm-4313x209.jpg" crc="312021490" seo="true" ref="razdemaree">
+      <caption webpage="razdemaree" alt=""/>
+    </file>
+    <file name="rdm-1.jpg" crc="3799311422" seo="true" ref="razdemaree:razdemareefr">
+      <caption webpage="razdemaree" alt=""/>
+      <caption webpage="razdemareefr" alt=""/>
+    </file>
+    <file name="rdm-2.jpg" crc="3771089514" seo="true" ref="razdemaree:razdemareefr">
+      <caption webpage="razdemaree" alt=""/>
+      <caption webpage="razdemareefr" alt=""/>
+    </file>
+    <file name="rdm-3.jpg" crc="3817509288" seo="true" ref="razdemaree:razdemareefr">
+      <caption webpage="razdemaree" alt=""/>
+      <caption webpage="razdemareefr" alt=""/>
+    </file>
+    <file name="rdm-4.jpg" crc="4025502243" seo="true" ref="razdemaree:razdemareefr">
+      <caption webpage="razdemaree" alt=""/>
+      <caption webpage="razdemareefr" alt=""/>
+    </file>
+    <file name="gfm_logo_470px.png" crc="3992461513" ref="razdemaree:razdemareefr">
+      <caption webpage="razdemaree" alt=""/>
+      <caption webpage="razdemareefr" alt=""/>
+    </file>
+    <file name="libre sauvage.png" crc="3962811526" ref="razdemaree:entredeux:razdemareefr:entredeuxfr">
+      <caption webpage="razdemaree" alt=""/>
+    </file>
+    <file name="fbw.png" crc="4035959694" ref="razdemaree:entredeux:razdemareefr:entredeuxfr">
+      <caption webpage="razdemaree" alt=""/>
+      <caption webpage="entredeux" alt=""/>
+      <caption webpage="entredeuxfr" alt=""/>
+      <caption webpage="razdemareefr" alt=""/>
+    </file>
+    <file name="instaw.png" crc="27113289" ref="razdemaree:entredeux:razdemareefr:entredeuxfr">
+      <caption webpage="razdemaree" alt=""/>
+      <caption webpage="entredeux" alt=""/>
+      <caption webpage="entredeuxfr" alt=""/>
+      <caption webpage="razdemareefr" alt=""/>
+    </file>
+    <file name="ed-favicon.ico" crc="3976345957" ref="entredeux"/>
+    <file name="27625174_10156499947350639_9139468305052074864_o.jpg" crc="3954960660" ref="entredeux:entredeuxfr">
+      <caption webpage="entredeuxfr" alt=""/>
+      <caption webpage="entredeux" alt=""/>
+    </file>
+    <file name="banndeco9_1.jpg" crc="4139348151" ref="entredeux:entredeuxfr">
+      <caption webpage="entredeux" alt=""/>
+    </file>
+    <file name="affiche-11x17entre2_2_orig.jpg" crc="61600520" ref="entredeux:entredeuxfr">
+      <caption webpage="entredeux" alt=""/>
+    </file>
+    <file name="u7927.png" crc="4279339411" ref="stevedaivafr"/>
+    <file name="u7927-r.png" crc="4279339411" ref="stevedaivafr"/>
+    <file name="u7927-a.png" crc="4279339411" ref="stevedaivafr"/>
+    <file name="u7944.png" crc="4279339411" ref="stevedaivafr"/>
+    <file name="u7944-r.png" crc="4279339411" ref="stevedaivafr"/>
+    <file name="u7944-a.png" crc="4279339411" ref="stevedaivafr"/>
+    <file name="u7959.png" crc="4279339411" ref="stevedaivafr"/>
+    <file name="u7959-r.png" crc="114733625" ref="stevedaivafr"/>
+    <file name="u7959-a.png" crc="4279339411" ref="stevedaivafr"/>
+    <file name="u7968.png" crc="4279339411" ref="stevedaivafr"/>
+    <file name="u7968-r.png" crc="4279339411" ref="stevedaivafr"/>
+    <file name="u7968-a.png" crc="4279339411" ref="stevedaivafr"/>
+    <file name="redum-crop-u7850.jpg" crc="4001454642" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="2016-01-14 014835 1-crop-u7848.jpg" crc="198429467" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="street-crop-u7858.jpg" crc="3776924254" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="a6000-2-crop-u7864.png" crc="4232724794" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="tea-crop-u7854.jpg" crc="263746523" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="bag-crop-u7862.jpg" crc="514763489" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="2015-10-23 015948 1-crop-u7852.jpg" crc="506510857" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="2015-11-03 102316 1-crop-u7860.jpg" crc="3776567590" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="2016-01-19 123754 1-crop-u7856.jpg" crc="4247716007" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="redum-crop-u7898.jpg" crc="4222169343" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="2016-01-14 014835 1-crop-u7892.jpg" crc="4101877558" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="street-crop-u7884.jpg" crc="3994297731" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="a6000-2-crop-u7894.png" crc="1384629" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="tea-crop-u7888.jpg" crc="4088147698" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="bag-crop-u7890.jpg" crc="3960672874" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="2015-10-23 015948 1-crop-u7886.jpg" crc="215260822" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="2015-11-03 102316 1-crop-u7882.jpg" crc="241524688" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="2016-01-19 123754 1-crop-u7896.jpg" crc="523806584" seo="true" ref="stevedaivafr">
+      <caption webpage="stevedaivafr" alt=""/>
+    </file>
+    <file name="rdm-fr-favicon.ico" crc="3976345957" ref="razdemareefr"/>
+    <file name="ed-fr-favicon.ico" crc="3976345957" ref="entredeuxfr"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4018772587" ref="phone>index"/>
+      <file name="index.css" crc="3984838708" ref="phone>index"/>
+      <file name="girloftomorrow.css" crc="355120163" ref="phone>girloftomorrow"/>
+      <file name="myriamrochefort.css" crc="279237556" ref="phone>myriamrochefort"/>
+      <file name="razdemaree.css" crc="279237556" ref="phone>razdemaree"/>
+      <file name="vannyly_marianneng.css" crc="279237556" ref="phone>vannyly_marianneng"/>
+    </folder>
+    <file name="index.html" crc="3791562592" seo="true" mt="1523657833513" redirect="true"/>
+    <file name="girloftomorrow.html" crc="4017195733" seo="true" mt="1459190981499" redirect="false"/>
+    <file name="razdemaree.html" crc="14332756" seo="true" mt="1459190981497" redirect="false"/>
+    <file name="myriamrochefort.html" crc="77577249" seo="true" mt="1459190981494" redirect="false"/>
+    <file name="vannyly_marianneng.html" crc="4016245584" seo="true" mt="1459190981492" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="3852717777" seo="true" mt="1528308336301" redirect="true"/>
+  <file name="girloftomorrow.html" crc="207970471" seo="true" mt="1523657833232" redirect="true"/>
+  <file name="myriamrochefort.html" crc="4279627057" seo="true" mt="1523657833233" redirect="true"/>
+  <file name="vannyly_marianneng.html" crc="530711170" seo="true" mt="1523657833234" redirect="true"/>
+  <file name="razdemaree.html" crc="365230497" seo="true" mt="1528241811599" redirect="true"/>
+  <file name="entredeux.html" crc="344171027" seo="true" mt="1528243918730" redirect="true"/>
+  <file name="stevedaivafr.html" crc="135849730" seo="true" mt="1528308304915" redirect="true"/>
+  <file name="razdemareefr.html" crc="192683116" seo="true" mt="1528245739415" redirect="true"/>
+  <file name="entredeuxfr.html" crc="3793609585" seo="true" mt="1528244411365" redirect="true"/>
+  <file name="girloftomorrowfr.html" crc="252891627" seo="true" mt="1528244387820" redirect="true"/>
+  <file name="myriamrochefortfr.html" crc="3919695789" seo="true" mt="1528244448120" redirect="true"/>
+  <file name="vannyly_mariannengfr.html" crc="3886276321" seo="true" mt="1528244470778" redirect="true"/>
+</manifest>
